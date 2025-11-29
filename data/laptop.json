@@ -1,0 +1,29 @@
+[
+    {
+        "id": "57c9051c-e9c5-4908-a75e-ef274d6e4281",
+        "name": "lenovo legion 5 15irx9",
+        "brand": "lenovo",
+        "CPU": "intel core i7 13650HX",
+        "GPU": " NVIDIA GeForce RTX 4060",
+        "ROM": "SSD 1TB",
+        "RAM": "DDR5 24GB"
+    },
+    {
+        "id": "5d4bef4d-d92e-4038-bc3f-f13da5cc4944",
+        "name": " asus rog strix G16",
+        "brand": "ASUS",
+        "CPU": "intel core i7 13650HX",
+        "GPU": " NVIDIA GeForce RTX 4060",
+        "ROM": "SSD 512GB",
+        "RAM": "DDR5 16GB"
+    },
+    {
+        "id": "973301c2-e603-4181-b68f-48562286ad02",
+        "name": "asus rog strix scar 18",
+        "brand": "ASUS",
+        "CPU": "intel core i9 14900HX",
+        "GPU": " NVIDIA GeForce RTX 5090TI",
+        "ROM": "SSD 4TB",
+        "RAM": "DDR5 64GB"
+    }
+]

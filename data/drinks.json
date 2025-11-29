@@ -1,0 +1,23 @@
+[
+  {
+    "name": "water",
+    "sugar": "without sugar",
+    "benifits": "Maintains Body Hydration, Supports Digestion, Detoxifies the Body, Boosts Physical Performance, Improves Skin Health",
+    "popularity": "every person drinks it every day",
+    "company": "more than hundred"
+  },
+  {
+    "name": "coca cola",
+    "sugar": "for 100ml of coca cola has 10.6 grams sugar",
+    "benifits": "none of benifit, black poison is better name than coca cola",
+    "popularity": "450.3 billion ml of coca cola are consumed by people per day",
+    "company": "coca cola is the biggest company in the world that produce drinks"
+  },
+  {
+    "name": "Red Bull",
+    "sugar": "for 100ml of Red Bull has 11 grams sugar",
+    "benefits": "provides temporary energy boost due to caffeine and taurine, but excessive consumption can be harmful",
+    "popularity": "hundreds of millions of cans of Red Bull are consumed worldwide every day",
+    "company": "Red Bull GmbH is the company that produces Red Bull, one of the most popular energy drinks in the world"
+  }
+]

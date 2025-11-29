@@ -1,0 +1,17 @@
+[
+    {
+        "name": "banana",
+        "colour": "yellow",
+        "vitamin": "vitamin A, vitamin B, vitamin B6"
+    },
+    {
+        "name": "apple",
+        "colour": "yellow, green, red",
+        "vitamin": "tiamin, vitamin B, riboflavin"
+    },
+    {
+        "name": "cherry ",
+        "colour": "red",
+        "vitamin": "Vitamin K, Folate , Potassium"
+    }
+]
