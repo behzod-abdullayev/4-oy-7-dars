@@ -1,17 +1,20 @@
 [
-    {
-        "name": "banana",
-        "colour": "yellow",
-        "vitamin": "vitamin A, vitamin B, vitamin B6"
-    },
-    {
-        "name": "apple",
-        "colour": "yellow, green, red",
-        "vitamin": "tiamin, vitamin B, riboflavin"
-    },
-    {
-        "name": "cherry ",
-        "colour": "red",
-        "vitamin": "Vitamin K, Folate , Potassium"
-    }
+  {
+    "id": "7ef3f58a-cfb2-4b46-a316-3a34bb088dd2",
+    "name": "banana",
+    "colour": "yellow",
+    "vitamin": "vitamin A, vitamin B, vitamin B6"
+  },
+  {
+    "id": "616a68c2-378c-43f3-8eb0-fc6ffd4e726d",
+    "name": "apple",
+    "colour": "yellow, green, red",
+    "vitamin": "tiamin, vitamin B, riboflavin"
+  },
+  {
+    "id": "af6b77a2-0dcb-4ba5-9ba9-cfeea787d29c",
+    "name": "cherry ",
+    "colour": "red",
+    "vitamin": "Vitamin K, Folate , Potassium"
+  }
 ]

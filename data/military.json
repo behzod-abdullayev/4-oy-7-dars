@@ -1,35 +1,35 @@
 [
-    {
-        "country": "UZBEKISTAN",
-        "population": "37 MILLION",
-        "defenseBudget": " 2,800,500,000 $",
-        "purchasingPower": "319,174,000,000 $",
-        "totalAircraft": "192",
-        "tankStrength": "340",
-        "amoredVehicles": "2970",
-        "fleetStrength": "none (land locked)",
-        "worldRank": "58"
-    },
-    {
-        "country": "kazakhsan",
-        "population": "20 MILLION",
-        "defenseBudget": " 2,048,700,000 $",
-        "purchasingPower": "705,520,000,000 $",
-        "totalAircraft": "198",
-        "tankStrength": "350",
-        "amoredVehicles": "7,736",
-        "fleetStrength": "26",
-        "worldRank": "57"
-    },
-    {
-        "country": "CHINA",
-        "population": "1.4 BILLION",
-        "defenseBudget": " 266,850,000,000 $",
-        "purchasingPower": "31,227,000,000,000 $",
-        "totalAircraft": "3309",
-        "tankStrength": "6800",
-        "amoredVehicles": "144,017",
-        "fleetStrength": "754",
-        "worldRank": "3"
-    }
+  {
+    "id": "d0e6ff81-9d8d-4bc6-877b-cb82f7316734",
+    "country": "UZBEKISTAN",
+    "population": "37 MILLION",
+    "defenseBudget": " 2,800,500,000 $",
+    "totalAircraft": "192",
+    "tankStrength": "340",
+    "amoredVehicles": "2970",
+    "fleetStrength": "none (land locked)",
+    "worldRank": "58"
+  },
+  {
+    "id": "c45a9886-fbce-4132-ad38-f11a66e71c3c",
+    "country": "kazakhsan",
+    "population": "20 MILLION",
+    "defenseBudget": " 2,048,700,000 $",
+    "totalAircraft": "198",
+    "tankStrength": "350",
+    "amoredVehicles": "7,736",
+    "fleetStrength": "26",
+    "worldRank": "57"
+  },
+  {
+    "id": "020e49a9-35bf-44ce-89ff-51b96455daff",
+    "country": "CHINA",
+    "population": "1.4 BILLION",
+    "defenseBudget": " 266,850,000,000 $",
+    "totalAircraft": "3309",
+    "tankStrength": "6800",
+    "amoredVehicles": "144,017",
+    "fleetStrength": "754",
+    "worldRank": "3"
+  }
 ]

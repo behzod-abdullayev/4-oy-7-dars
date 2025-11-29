@@ -1,23 +1,23 @@
 [
-    {
-        "id": "035c9ed6-881f-4d7a-a90a-8ae33bb51c70",
-        "name": "tigerr244",
-        "home": "forest",
-        "meal": "meat",
-        "type": "carnivore"
-    },
-    {
-        "id": "c8b35ebe-d276-4782-bb96-d79774f466ab",
-        "name": "zebra",
-        "home": "forest",
-        "meal": "meat",
-        "type": "herbivore"
-    },
-    {
-        "id": "cbfd2d11-2994-47a8-a0bf-ef686aabda94",
-        "name": "dog",
-        "home": " house",
-        "meal": "meat, plant",
-        "type": "herbivore, carnivore"
-    }
+  {
+    "id": "035c9ed6-881f-4d7a-a90a-8ae33bb51c70",
+    "name": "tigerr244",
+    "home": "forest",
+    "meal": "meat",
+    "type": "carnivore"
+  },
+  {
+    "id": "c8b35ebe-d276-4782-bb96-d79774f466ab",
+    "name": "zebra",
+    "home": "forest",
+    "meal": "meat",
+    "type": "herbivore"
+  },
+  {
+    "id": "cbfd2d11-2994-47a8-a0bf-ef686aabda94",
+    "name": "dog",
+    "home": " house",
+    "meal": "meat, plant",
+    "type": "herbivore, carnivore"
+  }
 ]
